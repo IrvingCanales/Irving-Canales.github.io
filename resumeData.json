@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Irving Canales",
+    "occupation": "Software engineer ",
+    "description": "Full Stack Developer. I love code, sports and grill",
+    "image": "irving_avatar.jpg",
+    "bio": "My name is Irving, I'm a Full Stack Developer. Currently I'm working at Syscom as lead software engineer.",
+    "contactmessage": "Get in touch with me.",
+    "email": "irvingc.7@gmail.com",
+    "phone": "+52 614 157 2707",
+    "address": {
+      "street": "",
+      "city": "Chihuahua",
+      "state": "México",
+      "zip": ""
+    },
+    "website": "https://irvingcanales.github.io/",
+    "resumedownload": "",
+    "social": [     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/irving-manuel-canales-tarango-4396a982",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/IrvingCanales/",
+        "className": "fab fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universidad Autonoma de Chihuahua",
+        "degree": "Software Engineering",
+        "graduated": "July 2012",
+        "description": "Graduated "
+      }
+    ],
+    "work": [
+      {
+        "company": "Syscom",
+        "title": "Lead software engineer",
+        "years": "Nov 2017 - Present",
+        "description": "In charge of all software projects of the company and responsible of architecture for the software programs, as well as for overseeing work being done by any other programmer working on the projects."
+      },
+      {
+        "company": "Syscom.",
+        "title": "Software developer",
+        "years": "Nov 2011 - Nov 2017",
+        "description": "Part of the development team of new inhouse build Web-Based company ERP and web Page of company, using technologies such as PHP, Javascript, React, Vue.Js, Node.js, MySQL, RESTful APIs, jQuery, MVC.."
+      },
+      {
+        "company": "Freelancer",
+        "title": "Software developer",
+        "years": "Jul 2012 - Present",
+        "description": "Development WebApps using technologies such as Javascript, React, Vue.Js, Node.js, PHP, MySQL, RESTful APIs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "100%",
+        "className": "fab fa-js"
+      },
+      {
+        "name": "React",
+        "level": "95%",
+        "className": "fab fa-react"
+        
+      },
+      {
+        "name": "Vue",
+        "level": "60%",
+        "className": "fab fa-vuejs"
+      },
+      {
+        "name": "Node",
+        "level": "55%",
+        "className": "fab fa-node"
+      },
+      {
+        "name": "PHP",
+        "level": "80%",
+        "className": "fab fa-php"
+      },
+      {
+        "name": "SQL",
+        "level": "80%",
+        "className": "fas fa-database"
+      },
+      {
+        "name": "NoSQL",
+        "level": "80%",
+        "className": "fas fa-database"
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "className": "fab fa-git"
+      },
+      {
+        "name": "Scrum master",
+        "level": "80%",
+        "className": "fas fa-users"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVIT 19 tracker",
+        "category": "COVIT 19 tracker built with Vue js",
+        "image": "covid_tracker.png",
+        "url": "https://covid19-tracker-c1b85.netlify.app/"
+      },
+      {
+        "title": "Stack Twitter clone",
+        "category": "Twitter Clone built with Reactjs and Firebase (NoSQL)",
+        "image": "twitter-clone.png",
+        "url": "https://twitter-clone-c4bb55.netlify.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with Vue js and Firebase (NoSQL)",
+        "image": "slack-clone.png",
+        "url": "https://slack-clone-c2301.netlify.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-c2990.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
